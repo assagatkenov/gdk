@@ -1,4 +1,4 @@
-Minecraft_Release_1.21.120.04
+Minecraft_1.21.120.04
 Minecraft_1.21.121.01
 Minecraft_1.21.122.01
 Minecraft_1.21.123.02
