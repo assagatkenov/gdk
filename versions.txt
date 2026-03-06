@@ -9,3 +9,4 @@ Minecraft_1.21.132.01
 Minecraft_1.26.0.02
 Minecraft_1.26.1.01
 Minecraft_1.26.2.01
+Minecraft_1.26.3.01
